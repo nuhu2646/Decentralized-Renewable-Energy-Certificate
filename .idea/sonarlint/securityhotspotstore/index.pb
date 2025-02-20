@@ -9,3 +9,5 @@ Q
 !tests/generation-contract.test.ts,1/7/17ffa3165ccf8331e305e1606dab098020184737
 R
 "tests/certificate-contract.test.ts,b/2/b23378fd611795670a0563f48fbd7de991917a79
+O
+contracts/trading-contract.clar,b/9/b924ea88c1eb272fcee364f2afb5b513a87017ac
