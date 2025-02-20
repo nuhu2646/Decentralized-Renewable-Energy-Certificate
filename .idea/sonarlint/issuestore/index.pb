@@ -7,3 +7,5 @@ R
 "contracts/generation-contract.clar,3/3/33ac929539ef639973ae315825a1c074c5dd438d
 Q
 !tests/generation-contract.test.ts,1/7/17ffa3165ccf8331e305e1606dab098020184737
+R
+"tests/certificate-contract.test.ts,b/2/b23378fd611795670a0563f48fbd7de991917a79
